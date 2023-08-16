@@ -7,6 +7,7 @@ EyeTrace is a Python-based computer vision project that enables real-time tracki
 
 EyeTrace is a Python-based project that utilizes computer vision techniques to track and analyze eye movements in real-time using a camera feed.
 
+![image](https://github.com/AnkitSin24/eyetrace/assets/89828727/e6096b1e-7107-4d0e-80f6-69fef2047cd1)
 
 
 ## Features
